@@ -82,3 +82,12 @@ a.article-title:hover {
 .account-heading {
   font-size: 2.5rem;
 }
+
+.media{
+  display: inline-flex;
+  width: 100%;
+}
+
+.media-body{
+  width: 100%;
+}
